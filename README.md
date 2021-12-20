@@ -1,5 +1,5 @@
 # LocalizationMeetsNetworks
-Example Matlab code for used in G. Menon and J. Krishnan, Spatial Localization meets Biomolecular Networks, 2021
+Example Matlab code used in G. Menon and J. Krishnan, Spatial Localization meets Biomolecular Networks, 2021
 
 * All the files provided contain Matlab functions.
 * The files nfxlap and perlap contain functions that compute the discretized 1-D Laplacian for no-flux boundary conditions and periodic boundary conditions respectively.
