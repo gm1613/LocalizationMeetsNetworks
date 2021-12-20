@@ -9,4 +9,4 @@ Example Matlab code used in G. Menon and J. Krishnan, Spatial Localization meets
 * The file motif_29a contains the Matlab function describing the system discussed in Fig. 4(E).
 * The file single_mod_two_diff3 contains the Matlab function describing the system shown in Fig. 7(D).
 * The file iff_with_inh_loc contains the Matlab function describing the incoherent feedforward motif with localisation shown in Figure 8(B).
-* These examples provide a template for Matlab functions: the lines of Matlab code provided below (corresponding to each figure) can be incorporated into these templates to create Matlab functions specific to each figure.
+* These examples provide a template for the all the other Matlab functions used in this study: the lines of Matlab code provided below (corresponding to each figure) can be incorporated into these templates to create Matlab functions specific to each figure.
